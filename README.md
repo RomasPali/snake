@@ -1,2 +1,2 @@
-# snake
+# Snake
 Snake implementation using Java
